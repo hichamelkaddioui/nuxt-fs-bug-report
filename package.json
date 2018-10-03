@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-fs-bug-report",
+  "version": "1.0.0",
+  "description": "Nuxt app to reproduce fs-related error",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hichamelkaddioui/nuxt-fs-bug-report"
+  },
+  "author": {
+    "name": "Hicham EL Kaddioui",
+    "email": "hicham.elkaddioui+git@gmail.com"
+  },
+  "license": "ISC"
+}
