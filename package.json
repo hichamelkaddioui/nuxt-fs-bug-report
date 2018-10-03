@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Nuxt app to reproduce fs-related error",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nuxt"
   },
   "repository": {
     "type": "git",
@@ -13,5 +13,9 @@
     "name": "Hicham EL Kaddioui",
     "email": "hicham.elkaddioui+git@gmail.com"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "nuxt": "^2.1.0"
+  }
 }
